@@ -184,7 +184,7 @@ textarea.input {
 .checkbox__input:checked + .checkbox__label:before {
   content: "";
   padding: .1875rem;
-  background: url(../../../img/icons/succes.svg) center/contain
+  background: url(../img/icons/succes.svg) center/contain
 }
 .checkbox__label {
   cursor: pointer;
